@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**I'm Raswanth Prasath**, I ❤️ creating things
+**I'm Raswanth Prasath**, I ❤️ creating things.
 
-🌱 I’m currently learning Machine Learning and Reinforcement Learning
+
 
 ## Reach out to me  
 <div align="center">
@@ -19,6 +19,7 @@
 </div>  
 <br/>  
 <!-- 
+🌱 I’m currently learning Machine Learning and Reinforcement Learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
