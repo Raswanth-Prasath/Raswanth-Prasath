@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I'm Raswanth Prasath** I ❤️ creating things
+**I'm Raswanth Prasath**, I ❤️ creating things
 
 🌱 I’m currently learning Machine Learning and Reinforcement Learning
 
