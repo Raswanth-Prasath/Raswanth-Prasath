@@ -6,6 +6,8 @@
 
 
 ## Connect with me: 
+[![Follow](https://img.shields.io/twitter/follow/Raswanth27?style=social)](https://www.twitter.com/Raswanth27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/raswanthprasath/)
 <div align="center">
 <a href="mailto:raswanthprasath27@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
